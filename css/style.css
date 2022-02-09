@@ -1,0 +1,114 @@
+/* &display=swap */
+@import "null.css";
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+
+body {
+	font-family: 'Inter', sans-serif;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 400;
+}
+
+p {
+	margin-top: 20px;
+	line-height: 1.8
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1040px;
+}
+
+header {
+	height: 150px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: rgba(189, 178, 200, 0.1);
+}
+
+.header {
+	padding-top: 10px;
+}
+
+.navi {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.navi-li {
+	font-size: 18px;
+	font-weight: bold;
+	color: rgba(0, 0, 0, 0.6);
+}
+
+.subs {	
+	margin-left: 400px;
+}
+
+h1 {
+	text-shadow: -5px 3px 0.5px rgba(240, 22, 22, 0.1);
+	margin-top: 30px;
+	font-size: 30px;
+	font-weight: 900;
+	color:rgba(240, 22, 22, 0.8)
+	
+}
+
+.eng-text {
+	margin-top: 5px;
+	font-size: 12px;
+	font-weight: 400;
+
+}
+
+.img-1 {
+	margin-top: 20px;
+	border-radius: 10%;
+	outline: 10px solid rgba(240, 22, 22, 0.5);	
+}
+
+.img-2 {
+	margin-top: 40px;
+	border-radius: 32% 68% 20% 80% / 61% 97% 3% 39%  ;
+	outline: 10px solid rgba(177, 7, 219, 0.8);
+	width: 400px;
+	height: 340px;
+}
+
+.box-1 {
+	border-radius: 20px;
+	box-shadow: -10px 10px 10px 5px rgba(240, 22, 22, 0.1);
+}
+
+.yt-text {
+	margin-top: 40px;
+	font-size: 30px;
+	font-weight: 900;
+	color: blueviolet;
+	border-radius: 20px;
+	box-shadow: -10px 10px 10px 5px rgba(240, 22, 22, 0.1)
+}
+
+footer {
+	height: 100px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	background-color: rgba(189, 178, 200, 0.1);
+}
+
+.footer {
+	padding: 40px 0px 0px 400px ;
+	font-weight: 900;
+	text-shadow: 1px 1px 2px red, 0 0 1em rgb(0, 255, 200), 0 0 0.2em rgb(0, 255, 170);
+	color: rgba(240, 22, 22, 0.8);
+}
+
+
+
